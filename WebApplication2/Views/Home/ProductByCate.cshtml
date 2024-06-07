@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "ProductByCate";
+    Layout = "~/Views/Shared/_LayoutOgani.cshtml";
+}
+
+@model List<Product>
+@foreach (var item in Model)
+{
+    @await Html.PartialAsync("PartialProduct", item)
+}

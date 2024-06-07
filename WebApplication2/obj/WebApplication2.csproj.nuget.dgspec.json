@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\WebApplication2.csproj": {}
+    "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\WebApplication2.csproj": {
+    "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\FPT\\.nuget\\packages\\",
-        "outputPath": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\obj\\",
+        "outputPath": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.6, )"
@@ -58,6 +62,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             },
             "X.PagedList": {
               "target": "Package",

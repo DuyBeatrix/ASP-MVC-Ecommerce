@@ -2,7 +2,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using WebApplication2.Models;
+using WebApplication2.ViewModels;
 using X.PagedList;
+using WebApplication2.Models.Authentication;
 
 namespace WebApplication2.Controllers
 {
@@ -15,16 +17,26 @@ namespace WebApplication2.Controllers
         {
             _logger = logger;
         }
-
+        //[Authentication]
         public IActionResult Index(int ? page)
         {
-            int pageSize = 8;
-            int pageNumber = page == null ? 1 : page.Value;
-            var listProduct = db.Products.AsNoTracking().OrderBy(x =>x.ProductName);
-            PagedList<Product> list = new PagedList<Product>(listProduct, pageNumber, pageSize);
+            var listProduct = db.Products.ToList();
+            
             return View(listProduct);
         }
 
+        public IActionResult ProductByCate(int CateID)
+        {
+            List<Product> list = db.Products.Where(x=>x.CateId == CateID).ToList();
+            return View(list);
+        }
+
+        public IActionResult ProductDetail(int ProductId)
+        {
+            var product = db.Products.SingleOrDefault(x => x.ProductId == ProductId);
+            
+            return View(product);
+        }
         public IActionResult Privacy()
         {
             return View();

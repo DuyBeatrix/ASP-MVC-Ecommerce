@@ -1,7 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using WebApplication2.Models;
+using WebApplication2.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+var connectionString = builder.Configuration.GetConnectionString("OganiContext");
+builder.Services.AddDbContext<OganiContext>(x => x.UseSqlServer(connectionString));
+builder.Services.AddScoped<ICateRepo, CateRepo>();
+
+builder.Services.AddSession();
 
 var app = builder.Build();
 
@@ -19,9 +29,10 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+app.UseSession();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Access}/{action=Register}/{id?}");
 
 app.Run();

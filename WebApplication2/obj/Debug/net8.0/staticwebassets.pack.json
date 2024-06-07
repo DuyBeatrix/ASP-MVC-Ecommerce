@@ -1,1155 +1,1155 @@
 {
   "Files": [
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication2.bundle.scp.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication2.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebApplication2.bundle.scp.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\css\\bootstrap.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\css\\style.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\css\\style.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\css\\style.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\img\\testimonial-1.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\img\\testimonial-2.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\img\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\img\\testimonial-2.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\img\\user.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\img\\user.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\img\\user.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\js\\main.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\js\\main.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\js\\main.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\chart\\chart.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\chart\\chart.min.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\chart\\chart.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\easing\\easing.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\easing\\easing.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\easing\\easing.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\LICENSE",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\js\\moment.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\js\\moment.min.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\waypoints\\links.php",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\waypoints\\waypoints.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_containers.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\Source\\OwlCarousel2-2.3.4.zip",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\Source\\OwlCarousel2-2.3.4.zip",
       "PackagePath": "staticwebassets\\LayoutOgani\\Source\\OwlCarousel2-2.3.4.zip"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\Source\\SlickNav-master.zip",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\Source\\SlickNav-master.zip",
       "PackagePath": "staticwebassets\\LayoutOgani\\Source\\SlickNav-master.zip"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\Source\\bootstrap-4.4.1-dist.zip",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\Source\\bootstrap-4.4.1-dist.zip",
       "PackagePath": "staticwebassets\\LayoutOgani\\Source\\bootstrap-4.4.1-dist.zip"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\Source\\font-awesome-4.7.0.zip",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\Source\\font-awesome-4.7.0.zip",
       "PackagePath": "staticwebassets\\LayoutOgani\\Source\\font-awesome-4.7.0.zip"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\Source\\jquery-nice-select-1.1.0.zip",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\Source\\jquery-nice-select-1.1.0.zip",
       "PackagePath": "staticwebassets\\LayoutOgani\\Source\\jquery-nice-select-1.1.0.zip"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\Source\\jquery-ui-1.12.1.zip",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\Source\\jquery-ui-1.12.1.zip",
       "PackagePath": "staticwebassets\\LayoutOgani\\Source\\jquery-ui-1.12.1.zip"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\Source\\sass.zip",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\Source\\sass.zip",
       "PackagePath": "staticwebassets\\LayoutOgani\\Source\\sass.zip"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\css\\bootstrap.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\LayoutOgani\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\css\\elegant-icons.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\css\\elegant-icons.css",
       "PackagePath": "staticwebassets\\LayoutOgani\\css\\elegant-icons.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\css\\font-awesome.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\LayoutOgani\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\css\\jquery-ui.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\css\\jquery-ui.min.css",
       "PackagePath": "staticwebassets\\LayoutOgani\\css\\jquery-ui.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\css\\nice-select.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\LayoutOgani\\css\\nice-select.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\css\\owl.carousel.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\LayoutOgani\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\css\\slicknav.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\css\\slicknav.min.css",
       "PackagePath": "staticwebassets\\LayoutOgani\\css\\slicknav.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\css\\style.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\css\\style.css",
       "PackagePath": "staticwebassets\\LayoutOgani\\css\\style.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.eot",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.eot",
       "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\ElegantIcons.eot"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.svg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.svg",
       "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\ElegantIcons.svg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.ttf",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.ttf",
       "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\ElegantIcons.ttf"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.woff",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.woff",
       "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\ElegantIcons.woff"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\FontAwesome.otf",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\banner\\banner-1.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\banner\\banner-1.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\banner\\banner-1.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\banner\\banner-2.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\banner\\banner-2.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\banner\\banner-2.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\blog-1.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\blog-1.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\blog-1.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\blog-2.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\blog-2.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\blog-2.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\blog-3.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\blog-3.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\blog-3.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\blog-4.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\blog-4.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\blog-4.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\blog-5.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\blog-5.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\blog-5.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\blog-6.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\blog-6.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\blog-6.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\details\\details-author.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\details\\details-author.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\details\\details-author.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\details\\details-hero.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\details\\details-hero.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\details\\details-hero.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\details\\details-pic.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\details\\details-pic.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\details\\details-pic.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\sidebar\\sr-1.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\sidebar\\sr-1.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\sidebar\\sr-1.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\sidebar\\sr-2.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\sidebar\\sr-2.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\sidebar\\sr-2.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\sidebar\\sr-3.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\blog\\sidebar\\sr-3.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\sidebar\\sr-3.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\breadcrumb.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\breadcrumb.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\breadcrumb.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\cart\\cart-1.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\cart\\cart-1.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\cart\\cart-1.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\cart\\cart-2.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\cart\\cart-2.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\cart\\cart-2.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\cart\\cart-3.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\cart\\cart-3.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\cart\\cart-3.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\categories\\cat-1.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\categories\\cat-1.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\cat-1.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\categories\\cat-2.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\categories\\cat-2.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\cat-2.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\categories\\cat-3.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\categories\\cat-3.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\cat-3.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\categories\\cat-4.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\categories\\cat-4.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\cat-4.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\categories\\cat-5.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\categories\\cat-5.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\cat-5.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-1.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-1.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-1.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-2.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-2.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-2.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-3.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-3.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-3.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-4.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-4.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-4.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-5.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-5.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-5.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-6.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-6.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-6.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-7.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-7.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-7.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-8.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\featured\\feature-8.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-8.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\hero\\banner.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\hero\\banner.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\hero\\banner.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\language.png",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\language.png",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\language.png"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\latest-product\\lp-1.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\latest-product\\lp-1.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\latest-product\\lp-1.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\latest-product\\lp-2.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\latest-product\\lp-2.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\latest-product\\lp-2.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\latest-product\\lp-3.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\latest-product\\lp-3.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\latest-product\\lp-3.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\logo.png",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\logo.png",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\logo.png"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\payment-item.png",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\payment-item.png",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\payment-item.png"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-1.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-1.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\product-details-1.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-2.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-2.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\product-details-2.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-3.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-3.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\product-details-3.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-4.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-4.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\product-details-4.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-5.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-5.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\product-details-5.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-1.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-1.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\thumb-1.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-2.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-2.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\thumb-2.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-3.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-3.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\thumb-3.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-4.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-4.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\thumb-4.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-1.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-1.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-1.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-2.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-2.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-2.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-3.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-3.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-3.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-4.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-4.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-4.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-5.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-5.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-5.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-6.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-6.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-6.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-1.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-1.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-1.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-10.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-10.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-10.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-11.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-11.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-11.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-12.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-12.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-12.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-2.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-2.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-2.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-3.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-3.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-3.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-4.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-4.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-4.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-5.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-5.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-5.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-6.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-6.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-6.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-7.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-7.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-7.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-8.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-8.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-8.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-9.jpg",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\img\\product\\product-9.jpg",
       "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-9.jpg"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\js\\bootstrap.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\LayoutOgani\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\js\\jquery-3.3.1.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\js\\jquery-3.3.1.min.js",
       "PackagePath": "staticwebassets\\LayoutOgani\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\js\\jquery-ui.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\js\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\LayoutOgani\\js\\jquery-ui.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\js\\jquery.nice-select.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\js\\jquery.nice-select.min.js",
       "PackagePath": "staticwebassets\\LayoutOgani\\js\\jquery.nice-select.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\js\\jquery.slicknav.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\js\\jquery.slicknav.js",
       "PackagePath": "staticwebassets\\LayoutOgani\\js\\jquery.slicknav.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\js\\main.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\js\\main.js",
       "PackagePath": "staticwebassets\\LayoutOgani\\js\\main.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\js\\mixitup.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\js\\mixitup.min.js",
       "PackagePath": "staticwebassets\\LayoutOgani\\js\\mixitup.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\js\\owl.carousel.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\LayoutOgani\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_base.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_base.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_base.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_blog-details.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_blog-details.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_blog-details.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_blog-sidebar.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_blog-sidebar.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_blog-sidebar.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_blog.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_blog.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_blog.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_breadcrumb.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_breadcrumb.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_checkout.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_checkout.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_checkout.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_contact.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_contact.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_contact.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_footer.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_footer.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_footer.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_header.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_header.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_header.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_hero.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_hero.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_hero.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_home-page.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_home-page.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_home-page.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_mixins.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_mixins.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_mixins.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_responsive.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_responsive.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_responsive.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_shop-details.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_shop-details.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_shop-details.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_shop-grid.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_shop-grid.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_shop-grid.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_shoping-cart.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_shoping-cart.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_shoping-cart.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_sidebar.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_sidebar.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_sidebar.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_variable.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\_variable.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\_variable.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\style.scss",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\LayoutOgani\\sass\\style.scss",
       "PackagePath": "staticwebassets\\LayoutOgani\\sass\\style.scss"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\css\\site.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\favicon.ico",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\js\\site.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\HAUI_VI\\PTUD_TMDT\\BTL\\ASP-MVC-Ecommerce\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
