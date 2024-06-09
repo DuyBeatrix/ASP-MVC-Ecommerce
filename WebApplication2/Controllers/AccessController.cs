@@ -24,6 +24,9 @@ namespace WebApplication2.Controllers
                 if (cus != null)
                 {
                     HttpContext.Session.SetString("cusEmail", cus.CusEmail.ToString());
+                    HttpContext.Session.SetString("cusName", cus.CusName.ToString());
+                    //HttpContext.Session.SetString("cusID", cus.CusId.ToString());
+                    HttpContext.Session.SetInt32("cusID", cus.CusId);
                     return RedirectToAction("Index", "Home");
                 }
             }
@@ -33,7 +36,7 @@ namespace WebApplication2.Controllers
         {
             HttpContext.Session.Clear();
             HttpContext.Session.Remove("cusEmail");
-            return RedirectToAction("Login", "Access");
+            return RedirectToAction("Index", "Home");
         }
 
         // Register
@@ -56,6 +59,10 @@ namespace WebApplication2.Controllers
                     //db.Configuration.ValidateOnSaveEnabled = false;
                     db.Customers.Add(customer);
                     db.SaveChanges();
+
+                    HttpContext.Session.SetString("cusEmail", customer.CusEmail);
+                    HttpContext.Session.SetString("cusName", customer.CusName);
+                    HttpContext.Session.SetString("cusID", customer.CusId.ToString());
                     return RedirectToAction("Index", "Home");
                 }
                 else

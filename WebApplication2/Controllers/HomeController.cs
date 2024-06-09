@@ -31,10 +31,28 @@ namespace WebApplication2.Controllers
             return View(list);
         }
 
+        public IActionResult ProductSellQuantity()
+        {
+            List<Product> list = db.Products.OrderByDescending(x => x.ProductSellquantity).Take(2).ToList();
+            return View(list);
+        }
+
+        public IActionResult NewProducts()
+        {
+            DateOnly fiveDaysAgo = DateOnly.FromDateTime(DateTime.Now.AddDays(-5));
+            List<Product> newProducts = db.Products.Where(x => x.ProductAdd >= fiveDaysAgo).OrderByDescending(x => x.ProductAdd).ToList();
+            return View(newProducts);
+        }
+
+        public IActionResult Search(string query)
+        {
+            List<Product> products = db.Products.Where(p => p.ProductName.Contains(query)).ToList();
+            return View(products);
+        }
+
         public IActionResult ProductDetail(int ProductId)
         {
             var product = db.Products.SingleOrDefault(x => x.ProductId == ProductId);
-            
             return View(product);
         }
         public IActionResult Privacy()

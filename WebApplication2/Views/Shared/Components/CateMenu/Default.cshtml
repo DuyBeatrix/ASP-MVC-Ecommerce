@@ -6,6 +6,14 @@
             <span>All departments</span>
         </div>
         <ul>
+            <li>
+                <a asp-controller="home" asp-action="productsellquantity">
+                    Hot Selling
+                </a>
+                <a asp-controller="home" asp-action="newproducts">
+                    New Products
+                </a>
+            </li>
             @foreach(var item in Model)
             {
                 <li><a asp-controller="home" asp-action="productbycate" asp-route-cateid="@item.CateId">
