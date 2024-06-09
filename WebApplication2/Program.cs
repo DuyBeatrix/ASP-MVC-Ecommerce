@@ -11,6 +11,8 @@ var connectionString = builder.Configuration.GetConnectionString("OganiContext")
 builder.Services.AddDbContext<OganiContext>(x => x.UseSqlServer(connectionString));
 builder.Services.AddScoped<ICateRepo, CateRepo>();
 
+builder.Services.AddDistributedMemoryCache();
+
 builder.Services.AddSession();
 
 var app = builder.Build();
@@ -33,6 +35,6 @@ app.UseSession();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Access}/{action=Register}/{id?}");
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

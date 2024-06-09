@@ -21,6 +21,8 @@ public partial class Product
 
     public DateOnly? ProductAdd { get; set; }
 
+    public int? ProductSellquantity { get; set; }
+
     public int? CateId { get; set; }
 
     public virtual ICollection<Cart> Carts { get; set; } = new List<Cart>();
