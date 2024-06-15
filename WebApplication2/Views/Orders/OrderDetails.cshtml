@@ -1,0 +1,438 @@
+﻿@{
+    Layout = null;
+    var cusName = Context.Session.GetString("cusName");
+    var cusID = Context.Session.GetInt32("cusID");
+    var order = ViewData["Order"] as WebApplication2.Models.Order;
+    var orderItems = ViewData["OrderItems"] as IEnumerable<dynamic>;
+}
+@model List<WebApplication2.Models.OrderItem>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Ogani Template">
+    <meta name="keywords" content="Ogani, unica, creative, html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ogani-My Order</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap" rel="stylesheet">
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="~/LayoutOgani/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="~/LayoutOgani/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="~/LayoutOgani/css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="~/LayoutOgani/css/nice-select.css" type="text/css">
+    <link rel="stylesheet" href="~/LayoutOgani/css/jquery-ui.min.css" type="text/css">
+    <link rel="stylesheet" href="~/LayoutOgani/css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="~/LayoutOgani/css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="~/LayoutOgani/css/style.css" type="text/css">
+    <style>
+
+    </style>
+</head>
+
+<body>
+    <!-- Page Preloder -->
+    <div id="preloder">
+        <div class="loader"></div>
+    </div>
+
+        <!-- Humberger Begin -->
+    <div class="humberger__menu__overlay"></div>
+    <div class="humberger__menu__wrapper">
+        <div class="humberger__menu__logo">
+            <a href="#"><img src="../LayoutOgani/img/logo.png" alt=""></a>
+        </div>
+        <div class="humberger__menu__cart">
+            <ul>
+                <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
+                <li><a href="/cart/index"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
+            </ul>
+            <div class="header__cart__price">item: <span>$150.00</span></div>
+        </div>
+        <div class="humberger__menu__widget">
+            <div class="header__top__right__language">
+                <img src="../LayoutOgani/img/language.png" alt="">
+                <div>English</div>
+                <span class="arrow_carrot-down"></span>
+                <ul>
+                    <li><a href="#">Spanis</a></li>
+                    <li><a href="#">English</a></li>
+                </ul>
+            </div>
+            <div class="header__top__right__auth">
+                @* <a href="#"><i class="fa fa-user"></i> Login</a> *@
+                @* <a asp-controller="Access" asp-action="Logout"><i class="fa fa-user"></i> Logout</a> *@
+            </div>
+        </div>
+        <nav class="humberger__menu__nav mobile-menu">
+            <ul>
+                <li class="active"><a href="./index.html">Home</a></li>
+                <li><a href="./shop-grid.html">Shop</a></li>
+                <li>
+                    <a href="#">Pages</a>
+                    <ul class="header__menu__dropdown">
+                        <li><a href="./shop-details.html">Shop Details</a></li>
+                        <li><a href="./shoping-cart.html">Shoping Cart</a></li>
+                        <li><a href="./checkout.html">Check Out</a></li>
+                        <li><a href="./blog-details.html">Blog Details</a></li>
+                    </ul>
+                </li>
+                <li><a href="./blog.html">Blog</a></li>
+                
+                
+            </ul>
+        </nav>
+        <div id="mobile-menu-wrap"></div>
+        <div class="header__top__right__social">
+            <a href="#"><i class="fa fa-facebook"></i></a>
+            <a href="#"><i class="fa fa-twitter"></i></a>
+            <a href="#"><i class="fa fa-linkedin"></i></a>
+            <a href="#"><i class="fa fa-pinterest-p"></i></a>
+        </div>
+        <div class="humberger__menu__contact">
+            <ul>
+                <li><i class="fa fa-envelope"></i> hello@colorlib.com</li>
+                <li>Free Shipping for all Order of $99</li>
+            </ul>
+        </div>
+    </div>
+    <!-- Humberger End -->
+    <!-- Header Section Begin -->
+    <header class="header">
+        <div class="header__top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="header__top__left">
+                            <ul>
+                                <li><i class="fa fa-envelope"></i> hello@colorlib.com</li>
+                                <li>Free Shipping for all Order of $99</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="header__top__right">
+                            <div class="header__top__right__social">
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-twitter"></i></a>
+                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                                <a href="#"><i class="fa fa-pinterest-p"></i></a>
+                            </div>
+                            <div class="header__top__right__language">
+                                <img src="../LayoutOgani/img/language.png" alt="">
+                                <div>English</div>
+                                <span class="arrow_carrot-down"></span>
+                                <ul>
+                                    <li><a href="#">Spanis</a></li>
+                                    <li><a href="#">English</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="header__top__right__language">
+                                @if (string.IsNullOrEmpty(cusName)) 
+                                {
+                                    <div>Account</div>
+                                    <span class="arrow_carrot-down"></span>
+                                    <ul>
+                                        <li><a asp-controller="Access" asp-action="Login">Login</a></li>
+                                    </ul>
+                                }
+                                else 
+                                {
+                                    <div>@cusName</div>
+                                    <span class="arrow_carrot-down"></span>
+                                    <ul>
+                                        <li><a asp-controller="Access" asp-action="Logout">Logout</a></li>
+                                    </ul>
+                                }
+                            </div>
+
+                            @* <div class="header__top__right__auth">
+                                <a asp-controller="Access" asp-action="Logout"><i class="fa fa-user"></i> Account</a>
+                            </div> *@
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="header__logo">
+                        <a href="./index.html"><img src="../LayoutOgani/img/logo.png" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <nav class="header__menu">
+                        <ul>
+                            <li class="active"><a href="./index.html">Home</a></li>
+                            <li><a href="./shop-grid.html">Shop</a></li>
+                            <li>
+                                <a href="#">Pages</a>
+                                <ul class="header__menu__dropdown">
+                                    <li><a href="./shop-details.html">Shop Details</a></li>
+                                    <li><a href="./shoping-cart.html">Shoping Cart</a></li>
+                                    <li><a href="./checkout.html">Check Out</a></li>
+                                    <li><a href="./blog-details.html">Blog Details</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="./blog.html">Blog</a></li>
+                            <li>
+                                <a href="#">My Account</a>
+                                <ul class="header__menu__dropdown">
+                                    <li><a href="./shop-details.html">My Cart</a></li>
+                                    <li><a href="./shoping-cart.html">My Profile</a></li>
+                                    <li><a asp-action="Orders" asp-controller="Orders">My Orders</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="col-lg-3">
+                    <div class="header__cart">
+                        <ul>
+                            <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
+                            <li><a asp-controller="Cart" asp-action="ViewCart" asp-route-cusId="@cusID"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
+                        </ul>
+                        <div class="header__cart__price">item: <span>$150.00</span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="humberger__open">
+                <i class="fa fa-bars"></i>
+            </div>
+        </div>
+    </header>
+    
+
+    <!-- Shoping Cart Section Begin -->
+    <div>
+        <div class="container ">
+            <div class="align-items-center">
+                <section class="h-100 gradient-custom py-5">
+                
+                
+                    <div class="container py-5 h-100">
+                        <div class="row d-flex justify-content-center align-items-center h-100">
+                          
+                               
+                                <div class="col-lg-10 col-xl-8 mb-4">
+                                    <div class="card" style="border-radius: 10px;">
+                                        <div class="card-header px-4 py-5">
+                                            <h5 class="text-muted mb-0">
+                                                Thanks for your Order, <span class="text-primary">@cusName</span>!
+                                            </h5>
+                                        </div>
+
+                                        <div class="card-body p-4">
+                                            <div class="d-flex justify-content-between align-items-center mb-4">
+                                                <p class="lead fw-normal mb-0 fs-1 text-black">Receipt</p>
+                                                <p class="small text-muted mb-0 fw-bold text-dark fs-3">
+                                                Receipt Voucher: <span>@order.OrderId</span>
+                                                </p>
+                                            </div>
+
+                                            <div class="card shadow-0 border mb-4">
+                                                <div class="card-body">
+                                                    @foreach (var item in orderItems){
+                                                    <div class="row">
+                                                        <div class="col-md-2">
+                                                            <img src="~/LayoutOgani/img/product/@item?.Product?.ProductImg" class="img-fluid" alt="Phone">
+                                                        </div>
+                                                        <div class="col-md-4 text-center d-flex justify-content-center align-items-center">
+                                                            <p class="text-muted mb-0">@item?.Product?.ProductName</p>
+                                                        </div>
+                                                        <div class="col-md-2 text-center d-flex justify-content-center align-items-center">
+                                                            <p class="text-muted mb-0 small">$@item?.Product?.ProductPrice</p>
+                                                        </div>
+                                                        <div class="col-md-2 text-center d-flex justify-content-center align-items-center">
+                                                            <p class="text-muted mb-0 small">Quantity: @item?.OrderItemQuantity</p>
+                                                        </div>
+                                                        <div class="col-md-2 text-center d-flex justify-content-center align-items-center">
+                                                            <p class="text-muted mb-0 small">Total: @item?.OrderItemPrice</p>
+                                                        </div>
+                                                    </div>
+                                                    }
+                                                    <hr class="mb-4" style="background-color: #e0e0e0; opacity: 1;">
+                                                    <div class="row d-flex align-items-center">
+                                                    
+                                                        
+                                                    
+                                                    <div class="col-md-2">
+                                                        <p class="text-muted mb-0 small fs-3">Track Order</p>
+                                                        </div>
+                                                        <div class="col-md-10">
+                                                        @if (order?.Ship?.ShipState == "Preparing")
+                                                            {
+                                                                <div class="progress" style="height: 6px; border-radius: 16px;">
+                                                                    <div class="progress-bar" role="progressbar"
+                                                                         style="width: 33%; border-radius: 16px; background-color: yellowgreen"
+                                                                         aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+                                                                </div>
+                                                            }
+                                                        @if (order?.Ship?.ShipState == "Delivering")
+                                                            {
+                                                                <div class="progress" style="height: 6px; border-radius: 16px;">
+                                                                    <div class="progress-bar" role="progressbar"
+                                                                         style="width: 66%; border-radius: 16px; background-color: green"
+                                                                         aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+                                                                </div>
+                                                            }
+                                                        @if (order?.Ship?.ShipState == "Fulfilled")
+                                                            {
+                                                                <div class="progress" style="height: 6px; border-radius: 16px;">
+                                                                    <div class="progress-bar" role="progressbar"
+                                                                         style="width: 100%; border-radius: 16px; background-color: green"
+                                                                         aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+                                                                </div>
+                                                            }
+                                                        @if (order?.Ship?.ShipState != "Rejected"){
+                                                            <div class="d-flex justify-content-around mb-1">
+                                                                <p class="text-muted mt-1 mb-0 small ms-xl-5">Preparing</p>
+                                                                <p class="text-muted mt-1 mb-0 small ms-xl-5">Delivering</p>
+                                                                <p class="text-muted mt-1 mb-0 small ms-xl-5">Fulfilled</p>
+                                                            </div>
+                                                        }
+                                                        @if (order?.Ship?.ShipState == "Rejected")
+                                                        {
+                                                            <div class="d-flex justify-content-around">
+                                                               <p class="text-danger fs-3">Giao hàng không thành công!</p>
+                                                            </div>
+                                                        }
+                                                        </div>
+                                                    
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="d-flex justify-content-between pt-2">
+                                                <p class="fw-bold mb-0">Order Details</p>
+                                            <p class="text-muted mb-0"><span class="fw-bold me-4">Total</span> @order?.OrderTotalprice</p>
+                                            </div>
+
+                                            
+
+                                            <div class="d-flex justify-content-between">
+                                                <p class="text-muted mb-0">Order Date: @order.OrderDate</p>
+                                            </div>
+
+                                            <div class="d-flex justify-content-between">
+                                                <p class="text-muted mb-0">Phone number: @order?.Cus.CusPhone</p>
+                                            </div>
+
+                                            <div class="d-flex justify-content-between mb-5">
+                                                <p class="text-muted mb-0">Address: @order?.Cus.CusAddress</p>
+              
+                                                <p class="text-muted mb-0"><span class="fw-bold me-4">Delivery Charges: </span>15000VND</p>
+                                            </div>
+
+                                            <div class="d-flex justify-content-between">
+                                                <p class="text-muted mb-0">Order notes: chi giao hang vao buoi chieu toi</p>
+                                            </div>
+                                        </div>
+
+                                    <div class="card-footer border-0 px-4 py-5 " style="background-color: #7fad39">
+                                            <h5 class="d-flex align-items-center justify-content-end text-white text-uppercase mb-0">
+                                                Total paid: <span class="h2 mb-0 ms-2">@order?.OrderTotalprice$</span>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                </div>
+                        
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+    <!-- Footer Section Begin -->
+    <footer class="footer spad mt-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="footer__about">
+                        <div class="footer__about__logo">
+                            <a href="./index.html"><img src="img/logo.png" alt=""></a>
+                        </div>
+                        <ul>
+                            <li>Address: 60-49 Road 11378 New York</li>
+                            <li>Phone: +65 11.188.888</li>
+                            <li>Email: hello@colorlib.com</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-1">
+                    <div class="footer__widget">
+                        <h6>Useful Links</h6>
+                        <ul>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">About Our Shop</a></li>
+                            <li><a href="#">Secure Shopping</a></li>
+                            <li><a href="#">Delivery infomation</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="#">Our Sitemap</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="#">Who We Are</a></li>
+                            <li><a href="#">Our Services</a></li>
+                            <li><a href="#">Projects</a></li>
+                            <li><a href="#">Contact</a></li>
+                            <li><a href="#">Innovation</a></li>
+                            <li><a href="#">Testimonials</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-12">
+                    <div class="footer__widget">
+                        <h6>Join Our Newsletter Now</h6>
+                        <p>Get E-mail updates about our latest shop and special offers.</p>
+                        <form action="#">
+                            <input type="text" placeholder="Enter your mail">
+                            <button type="submit" class="site-btn">Subscribe</button>
+                        </form>
+                        <div class="footer__widget__social">
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-pinterest"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="footer__copyright">
+                        <div class="footer__copyright__text">
+                            <p>
+                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                                Copyright &copy;
+                                <script>document.write(new Date().getFullYear());</script> All rights reserved | This
+                                template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                            </p>
+                        </div>
+                        <div class="footer__copyright__payment"><img src="img/payment-item.png" alt=""></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Footer Section End -->
+    <!-- Js Plugins -->
+    <script src="~/LayoutOgani/js/jquery-3.3.1.min.js"></script>
+    <script src="~/LayoutOgani/js/bootstrap.min.js"></script>
+    <script src="~/LayoutOgani/js/jquery.nice-select.min.js"></script>
+    <script src="~/LayoutOgani/js/jquery-ui.min.js"></script>
+    <script src="~/LayoutOgani/js/jquery.slicknav.js"></script>
+    <script src="~/LayoutOgani/js/mixitup.min.js"></script>
+    <script src="~/LayoutOgani/js/owl.carousel.min.js"></script>
+    <script src="~/LayoutOgani/js/main.js"></script>
+
+
+</body>
+
+</html>
