@@ -5,6 +5,7 @@ using WebApplication2.Models;
 using WebApplication2.ViewModels;
 using X.PagedList;
 using WebApplication2.Models.Authentication;
+using WebApplication2.Models.ProductDetailViewModel;
 
 namespace WebApplication2.Controllers
 {
@@ -53,7 +54,16 @@ namespace WebApplication2.Controllers
         public IActionResult ProductDetail(int ProductId)
         {
             var product = db.Products.SingleOrDefault(x => x.ProductId == ProductId);
-            return View(product);
+
+            var relatedProducts = db.Products.Where(x => x.CateId == product.CateId && x.ProductId != ProductId).Take(4).ToList();
+
+            var viewModel = new ProductDetailViewModel
+            {
+                Product = product,
+                RelatedProducts = relatedProducts
+            };
+
+            return View(viewModel);
         }
         public IActionResult Privacy()
         {

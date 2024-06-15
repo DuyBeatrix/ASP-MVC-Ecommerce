@@ -1,12 +1,24 @@
 ﻿@model Product
-
+@{
+    var cusID = Context.Session.GetInt32("cusID");
+}
 <div class="col-lg-3 col-md-4 col-sm-6 mix oranges fresh-meat">
     <div class="featured__item">
         <div class="featured__item__pic set-bg" data-setbg="../LayoutOgani/img/featured/@Model.ProductImg" style="background-image: url(&quot;img/featured/feature-1.jpg&quot;);">
             <ul class="featured__item__pic__hover">
                 <li><a href="#"><i class="fa fa-heart"></i></a></li>
                 <li><a href="#"><i class="fa fa-inbox"></i> @Model.ProductQuantity</a></li>
-                <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                @* <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li> *@
+                <li>
+                    <form asp-action="AddToCart" asp-controller="Cart" method="post">
+                        <input type="hidden" name="productId" value="@Model.ProductId" />
+                        <input type="hidden" name="cusID" value="@cusID" />
+                        <input type="hidden" name="quantity" value="1" />
+                        <button type="submit" class="add-to-cart-btn">
+                            <i class="fa fa-shopping-cart"></i>
+                        </button>
+                    </form>
+                </li>
             </ul>
         </div>
         <div class="featured__item__text">
