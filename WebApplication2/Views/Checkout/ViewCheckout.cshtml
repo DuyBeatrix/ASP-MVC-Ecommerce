@@ -135,6 +135,34 @@
     <script src="../LayoutOgani/js/mixitup.min.js"></script>
     <script src="../LayoutOgani/js/owl.carousel.min.js"></script>
     <script src="../LayoutOgani/js/main.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const paymentCheckboxes = document.querySelectorAll('input[name="paymentMethod"]');
+            const shippingCheckboxes = document.querySelectorAll('input[name="shippingMethod"]');
+
+            paymentCheckboxes.forEach(checkbox => {
+                checkbox.addEventListener('change', function () {
+                    if (this.checked) {
+                        paymentCheckboxes.forEach(other => {
+                            if (other !== this) other.checked = false;
+                        });
+                    }
+                });
+            });
+
+            shippingCheckboxes.forEach(checkbox => {
+                checkbox.addEventListener('change', function () {
+                    if (this.checked) {
+                        shippingCheckboxes.forEach(other => {
+                            if (other !== this) other.checked = false;
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+
 </body>
 
 </html>

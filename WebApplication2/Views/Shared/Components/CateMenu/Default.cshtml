@@ -7,16 +7,19 @@
         </div>
         <ul>
             <li>
-                <a asp-controller="home" asp-action="productsellquantity">
+                <a asp-controller="shop" asp-action="productsellquantityshop">
                     Hot Selling
                 </a>
-                <a asp-controller="home" asp-action="newproducts">
+            </li>
+            <li>
+                <a asp-controller="shop" asp-action="newproductsshop">
                     New Products
                 </a>
             </li>
             @foreach(var item in Model)
             {
-                <li><a asp-controller="home" asp-action="productbycate" asp-route-cateid="@item.CateId">
+                <li>
+                    <a asp-controller="shop" asp-action="ProductByCateShop" asp-route-cateid="@item.CateId">
                     @item.CateName
                 </a></li>
             }
