@@ -53,7 +53,14 @@
                                 <a href="#">Pages</a>
                             </li>
                             <li><a href="./blog.html">Blog</a></li>
-                            <li><a href="./contact.html">Contact</a></li>
+                            <li class="active">
+                                <a href="#">My Account</a>
+                                <ul class="header__menu__dropdown">
+                                    <li><a asp-controller="Cart" asp-action="ViewCart">My Cart</a></li>
+                                    <li><a href="./shoping-cart.html">My Profile</a></li>
+                                    <li><a asp-action="Orders" asp-controller="Orders">My Orders</a></li>
+                                </ul>
+                            </li>
                         </ul>
                     </nav>
                 </div>
@@ -61,9 +68,9 @@
                     <div class="header__cart">
                         <ul>
                             <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
-                            <li><a asp-controller="Cart" asp-action="ViewCart" asp-route-cusId="@cusID"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
+                            <li><a asp-controller="Cart" asp-action="ViewCart" asp-route-cusId="@cusID"><i class="fa fa-shopping-bag"></i> </a></li>
                         </ul>
-                        <div class="header__cart__price">item: <span>$150.00</span></div>
+                        
                     </div>
                 </div>
             </div>
@@ -195,7 +202,6 @@
                             </div>
                             <button class="primary-btn">ADD TO CARD</button>
                         </form>
-
                         <a href="#" class="heart-icon"><span class="icon_heart_alt"></span></a>
                         <ul>
                             <li><b>Availability</b> <span>@Model.Product.ProductQuantity</span></li>
@@ -332,7 +338,14 @@
     <script src="../LayoutOgani/js/owl.carousel.min.js"></script>
     <script src="../LayoutOgani/js/main.js"></script>
 
-
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <script>
+            $(document).ready(function () {
+                alert('@TempData["ErrorMessage"]');
+            });
+        </script>
+    }
 </body>
 
 </html>

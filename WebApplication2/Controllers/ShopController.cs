@@ -1,21 +1,34 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using WebApplication2.Models;
+using X.PagedList;
 
 namespace WebApplication2.Controllers
 {
     public class ShopController : Controller
     {
         OganiContext db = new OganiContext();
-        public IActionResult ViewShop()
+        public IActionResult ViewShop(int? page)
         {
-            var listProduct = db.Products.ToList();
-
-            return View(listProduct);
+            int pageSize = 9;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            var listProduct = db.Products.AsNoTracking();
+            PagedList<Product> lst = new PagedList<Product>(listProduct, pageNumber, pageSize);
+            return View(lst);
         }
-        public IActionResult ProductByCateShop(int CateID)
+        //public IActionResult ProductByCateShop(int CateID)
+        //{
+        //    List<Product> list = db.Products.Where(x => x.CateId == CateID).ToList();
+        //    return View(list);
+        //}
+        public IActionResult ProductByCateShop(int CateID, int? page)
         {
-            List<Product> list = db.Products.Where(x => x.CateId == CateID).ToList();
-            return View(list);
+            int pageSize = 3;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            var listProduct = db.Products.Where(x => x.CateId == CateID).AsNoTracking();
+            ViewBag.CateID = CateID;
+            IPagedList<Product> lst = new PagedList<Product>(listProduct, pageNumber, pageSize);
+            return View(lst);
         }
         public IActionResult ProductSellQuantityShop()
         {

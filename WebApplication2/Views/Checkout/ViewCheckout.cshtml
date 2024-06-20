@@ -74,7 +74,7 @@
                             </div>
                             <div class="checkout__input">
                                 <p>Order notes<span>*</span></p>
-                                <input type="text" placeholder="Notes about your order, e.g. special notes for delivery.">
+                                <input type="text" name="Note" placeholder="Notes about your order, e.g. special notes for delivery.">
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -162,6 +162,15 @@
             });
         });
     </script>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <script>
+            $(document).ready(function () {
+                alert('@TempData["ErrorMessage"]');
+            });
+        </script>
+    }
 
 </body>
 

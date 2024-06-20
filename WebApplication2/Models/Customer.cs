@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace WebApplication2.Models;
 
@@ -7,14 +8,19 @@ public partial class Customer
 {
     public int CusId { get; set; }
 
+    [Required]
     public string? CusName { get; set; }
 
+    [EmailAddress]
     public string? CusEmail { get; set; }
 
+    [Required]
     public string? CusPassword { get; set; }
 
+    [Required]
     public string? CusAddress { get; set; }
 
+    [Required]
     public string? CusPhone { get; set; }
 
     public virtual ICollection<Cart> Carts { get; set; } = new List<Cart>();

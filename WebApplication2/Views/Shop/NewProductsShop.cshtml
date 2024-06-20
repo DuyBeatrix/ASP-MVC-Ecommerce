@@ -4,6 +4,7 @@
     var cusID = Context.Session.GetInt32("cusID");
 }
 @model List<Product>
+<div class="row">
 @foreach (var item in Model)
 {
     <div class="col-lg-4 col-md-6 col-sm-6">
@@ -34,3 +35,4 @@
         </div>
     </div>
 }
+</div>
