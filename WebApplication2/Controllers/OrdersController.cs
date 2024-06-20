@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebApplication2.Models;
+using WebApplication2.Models.Authentication;
 using X.PagedList;
 
 namespace WebApplication2.Controllers
@@ -9,6 +10,7 @@ namespace WebApplication2.Controllers
     public class OrdersController : Controller
     {
         private OganiContext data = new OganiContext();
+        [Authentication]
         public IActionResult Orders(int? page)
         {
             int pageSize = 5;

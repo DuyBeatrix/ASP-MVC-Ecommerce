@@ -2,10 +2,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using WebApplication2.Models;
-using WebApplication2.ViewModels;
 using X.PagedList;
-using WebApplication2.Models.Authentication;
 using WebApplication2.Models.ProductDetailViewModel;
+
 
 namespace WebApplication2.Controllers
 {
@@ -21,9 +20,11 @@ namespace WebApplication2.Controllers
         //[Authentication]
         public IActionResult Index(int ? page)
         {
-            var listProduct = db.Products.ToList();
-            
-            return View(listProduct);
+            int pageSize = 8;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            var listProduct = db.Products.AsNoTracking();
+            PagedList<Product> lst = new PagedList<Product>(listProduct, pageNumber, pageSize);
+            return View(lst);
         }
 
         public IActionResult ProductByCate(int CateID)

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.CodeAnalysis;
 using Microsoft.EntityFrameworkCore;
 using System;
 using WebApplication2.Models;
@@ -23,7 +24,7 @@ namespace WebApplication2.Controllers
             return View(checkoutView);
         }
         [HttpPost]
-        public IActionResult PlaceOrder(int cusId, string CustomerName, string CustomerAddress, string CustomerPhone, string paymentMethod, string shippingMethod)
+        public IActionResult PlaceOrder(int cusId, string CustomerName, string CustomerAddress, string CustomerPhone, String Note, string paymentMethod, string shippingMethod)
         {
             var cartItems = db.Carts.Include(c => c.Product).Where(c => c.CusId == cusId).ToList();
             foreach (var item in cartItems)
@@ -35,10 +36,15 @@ namespace WebApplication2.Controllers
 
             var shipping = new Shipment
             {
+                CusName = CustomerName,
+                ShipPhone = CustomerPhone,
                 ShipAddress = CustomerAddress,
+                ShipNote = Note,
                 ShipState = "Preparing",
-                ShipCode = shippingMethod, // SUA DB CODE -> METHOD
-                CusId = cusId
+                ShipMethod = shippingMethod,
+                CusId = cusId,
+                ShipPrice = (shippingMethod == "FastExpress" ? 30000 : 15000),
+                ShipDate = DateTime.Now.AddDays(1)
             };
             db.Shipments.Add(shipping);
             db.SaveChanges();
@@ -46,8 +52,13 @@ namespace WebApplication2.Controllers
             var payment = new Payment
             {
                 PaymentMethod = paymentMethod,
-                PaymentAmount = (shippingMethod == "FastExpress" ? 30000 : 15000),
-                CusId = cusId
+                PaymentAmount = (
+                    shippingMethod == "FastExpress" ?
+                        cartItems.Sum(item => item.Product.ProductPrice * item.CartQuantity) + 30000 :
+                        cartItems.Sum(item => item.Product.ProductPrice * item.CartQuantity) + 15000
+                ), // KHACH HANG CO THE TRA THIEU HOAC THUA CAI DO SUA TRONG CSDL
+                CusId = cusId,
+                PaymentDate = DateTime.Now.AddDays(3)
             };
             db.Payments.Add(payment);
             db.SaveChanges();
@@ -80,6 +91,8 @@ namespace WebApplication2.Controllers
             }
             db.Carts.RemoveRange(cartItems);
             db.SaveChanges();
+
+            TempData["ErrorMessage"] = "Mua hang thanh cong!";
             return RedirectToAction("ViewCart", "Cart", new { cusId = cusId });
         }
     }

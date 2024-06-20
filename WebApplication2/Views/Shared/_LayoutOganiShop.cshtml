@@ -48,11 +48,16 @@
                         <ul>
                             <li><a asp-controller="Home" asp-action="Index">Home</a></li>
                             <li class="active"><a asp-controller="Shop" asp-action="ViewShop">Shop</a></li>
-                            <li>
-                                <a href="#">Pages</a>
-                            </li>
+                            <li><a href="#">Pages</a></li>
                             <li><a href="./blog.html">Blog</a></li>
-                            <li><a href="./contact.html">Contact</a></li>
+                            <li>
+                                <a href="#">My Account</a>
+                                <ul class="header__menu__dropdown">
+                                    <li><a href="./shop-details.html">My Cart</a></li>
+                                    <li><a href="./shoping-cart.html">My Profile</a></li>
+                                    <li><a asp-action="Orders" asp-controller="Orders">My Orders</a></li>
+                                </ul>
+                            </li>
                         </ul>
                     </nav>
                 </div>
@@ -60,9 +65,8 @@
                     <div class="header__cart">
                         <ul>
                             <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
-                            <li><a asp-controller="Cart" asp-action="ViewCart" asp-route-cusId="@cusID"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
+                            <li><a asp-controller="Cart" asp-action="ViewCart" asp-route-cusId="@cusID"><i class="fa fa-shopping-bag"></i></a></li>
                         </ul>
-                        <div class="header__cart__price">item: <span>$150.00</span></div>
                     </div>
                 </div>
             </div>
@@ -154,15 +158,9 @@
                     </div>
                 </div>
                 <div class="col-lg-9 col-md-7">
-                    <div class="row">
-                        @RenderBody()
-                    </div>
-                    <div class="product__pagination">
-                        <a href="#">1</a>
-                        <a href="#">2</a>
-                        <a href="#">3</a>
-                        <a href="#"><i class="fa fa-long-arrow-right"></i></a>
-                    </div>
+                    
+                    @RenderBody()
+                    
                 </div>
             </div>
         </div>

@@ -80,9 +80,13 @@
                                 <label for="floatingInput">Email address</label>
                             </div>
                             <div class="form-floating mb-4">
-                                @Html.TextBoxFor(x => x.CusPassword, new { @class = "form-control", id = "floatingInput", requeired = "requeired", autofocus = "autofocus" })
+                                @Html.TextBoxFor(x => x.CusPassword, new { type = "password", @class = "form-control", id = "floatingInput", requeired = "requeired", autofocus = "autofocus" })
                                 @*<input type="password" class="form-control" id="floatingPassword" placeholder="Password">*@
                                 <label for="floatingPassword">Password</label>
+                            </div>
+                            <div class="form-floating mb-4">
+                                <input type="password" class="form-control" id="floatingConfirmPassword" required="required">
+                                <label for="floatingConfirmPassword">Confirm Password</label>
                             </div>
                             <button type="submit" class="btn btn-primary py-3 w-100 mb-4">Sign Up</button>
                             <p class="text-center mb-0">Already have an Account? <a asp-controller="Access" asp-action="Login">Sign In</a></p>
@@ -108,6 +112,39 @@
 
     <!-- Template Javascript -->
     <script src="../LayoutAdmin/js/main.js"></script>
+
+    <script>
+        document.getElementById('floatingConfirmPassword').addEventListener('input', function () {
+            var password = document.getElementById('floatingPassword').value;
+            var confirmPassword = document.getElementById('floatingConfirmPassword').value;
+            var message = document.getElementById('passwordMatchMessage');
+
+            if (password != confirmPassword) {
+                message.style.display = 'block';
+            } else {
+                message.style.display = 'none';
+            }
+        });
+    </script>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <script>
+            $(document).ready(function () {
+                alert('@TempData["ErrorMessage"]');
+            });
+        </script>
+    }
+
+    @if (TempData["ErrorMessage1"] != null)
+    {
+        <script>
+            $(document).ready(function () {
+                alert('@TempData["ErrorMessage1"]');
+            });
+        </script>
+    }
+
 </body>
 
 </html>

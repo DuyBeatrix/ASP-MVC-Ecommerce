@@ -13,9 +13,17 @@ public partial class Shipment
 
     public string? ShipState { get; set; }
 
-    public string? ShipCode { get; set; }
+    public string? ShipNote { get; set; }
 
     public int? CusId { get; set; }
+
+    public string? CusName { get; set; }
+
+    public string? ShipPhone { get; set; }
+
+    public decimal? ShipPrice { get; set; }
+
+    public string? ShipMethod { get; set; }
 
     public virtual Customer? Cus { get; set; }
 

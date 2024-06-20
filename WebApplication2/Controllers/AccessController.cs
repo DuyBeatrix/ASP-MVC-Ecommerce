@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.CodeAnalysis;
 using WebApplication2.Models;
 
 namespace WebApplication2.Controllers
@@ -29,6 +30,10 @@ namespace WebApplication2.Controllers
                     HttpContext.Session.SetInt32("cusID", cus.CusId);
                     return RedirectToAction("Index", "Home");
                 }
+                else
+                {
+                    ViewBag.LoginError = "Sai mat khau hoac mail";
+                }
             }
             return View();
         }
@@ -57,6 +62,7 @@ namespace WebApplication2.Controllers
                 {
                     //customer.CusPassword = GetMD5(customer.CusPassword);
                     //db.Configuration.ValidateOnSaveEnabled = false;
+
                     db.Customers.Add(customer);
                     db.SaveChanges();
 
@@ -67,9 +73,12 @@ namespace WebApplication2.Controllers
                 }
                 else
                 {
-                    ModelState.AddModelError("CusEmail", "Email already exists");
-                    return View();
+                    TempData["ErrorMessage"] = "Email da ton tai!";
                 }
+            }
+            else
+            {
+                TempData["ErrorMessage1"] = "Khong de trong va nhap dung dinh dang!";
             }
             return View();
         }

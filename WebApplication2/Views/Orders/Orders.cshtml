@@ -36,67 +36,6 @@
         <div class="loader"></div>
     </div>
 
-        <!-- Humberger Begin -->
-    <div class="humberger__menu__overlay"></div>
-    <div class="humberger__menu__wrapper">
-        <div class="humberger__menu__logo">
-            <a href="#"><img src="../LayoutOgani/img/logo.png" alt=""></a>
-        </div>
-        <div class="humberger__menu__cart">
-            <ul>
-                <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
-                <li><a href="/cart/index"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
-            </ul>
-            <div class="header__cart__price">item: <span>$150.00</span></div>
-        </div>
-        <div class="humberger__menu__widget">
-            <div class="header__top__right__language">
-                <img src="../LayoutOgani/img/language.png" alt="">
-                <div>English</div>
-                <span class="arrow_carrot-down"></span>
-                <ul>
-                    <li><a href="#">Spanis</a></li>
-                    <li><a href="#">English</a></li>
-                </ul>
-            </div>
-            <div class="header__top__right__auth">
-                @* <a href="#"><i class="fa fa-user"></i> Login</a> *@
-                @* <a asp-controller="Access" asp-action="Logout"><i class="fa fa-user"></i> Logout</a> *@
-            </div>
-        </div>
-        <nav class="humberger__menu__nav mobile-menu">
-            <ul>
-                <li class="active"><a href="./index.html">Home</a></li>
-                <li><a href="./shop-grid.html">Shop</a></li>
-                <li>
-                    <a href="#">Pages</a>
-                    <ul class="header__menu__dropdown">
-                        <li><a href="./shop-details.html">Shop Details</a></li>
-                        <li><a href="./shoping-cart.html">Shoping Cart</a></li>
-                        <li><a href="./checkout.html">Check Out</a></li>
-                        <li><a href="./blog-details.html">Blog Details</a></li>
-                    </ul>
-                </li>
-                <li><a href="./blog.html">Blog</a></li>
-                
-                
-            </ul>
-        </nav>
-        <div id="mobile-menu-wrap"></div>
-        <div class="header__top__right__social">
-            <a href="#"><i class="fa fa-facebook"></i></a>
-            <a href="#"><i class="fa fa-twitter"></i></a>
-            <a href="#"><i class="fa fa-linkedin"></i></a>
-            <a href="#"><i class="fa fa-pinterest-p"></i></a>
-        </div>
-        <div class="humberger__menu__contact">
-            <ul>
-                <li><i class="fa fa-envelope"></i> hello@colorlib.com</li>
-                <li>Free Shipping for all Order of $99</li>
-            </ul>
-        </div>
-    </div>
-    <!-- Humberger End -->
     <!-- Header Section Begin -->
     <header class="header">
         <div class="header__top">
@@ -159,28 +98,20 @@
             <div class="row">
                 <div class="col-lg-3">
                     <div class="header__logo">
-                        <a href="./index.html"><img src="../LayoutOgani/img/logo.png" alt=""></a>
+                        <a asp-controller="Home" asp-action="Index"><img src="../LayoutOgani/img/logo.png" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <nav class="header__menu">
                         <ul>
-                            <li class="active"><a href="./index.html">Home</a></li>
-                            <li><a href="./shop-grid.html">Shop</a></li>
-                            <li>
-                                <a href="#">Pages</a>
-                                <ul class="header__menu__dropdown">
-                                    <li><a href="./shop-details.html">Shop Details</a></li>
-                                    <li><a href="./shoping-cart.html">Shoping Cart</a></li>
-                                    <li><a href="./checkout.html">Check Out</a></li>
-                                    <li><a href="./blog-details.html">Blog Details</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="./blog.html">Blog</a></li>
-                            <li>
+                            <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                            <li><a asp-controller="Shop" asp-action="ViewShop">Shop</a></li>
+                            <li><a href="#">Pages</a></li>
+                            <li><a href="#">Blog</a></li>
+                            <li class="active">
                                 <a href="#">My Account</a>
                                 <ul class="header__menu__dropdown">
-                                    <li><a href="./shop-details.html">My Cart</a></li>
+                                    <li><a asp-controller="Cart" asp-action="ViewCart" asp-route-cusId="@cusID">My Cart</a></li>
                                     <li><a href="./shoping-cart.html">My Profile</a></li>
                                     <li><a asp-action="Orders" asp-controller="Orders">My Orders</a></li>
                                 </ul>
@@ -192,9 +123,8 @@
                     <div class="header__cart">
                         <ul>
                             <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
-                            <li><a asp-controller="Cart" asp-action="ViewCart" asp-route-cusId="@cusID"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
+                            <li><a asp-controller="Cart" asp-action="ViewCart" asp-route-cusId="@cusID"><i class="fa fa-shopping-bag"></i></a></li>
                         </ul>
-                        <div class="header__cart__price">item: <span>$150.00</span></div>
                     </div>
                 </div>
             </div>
@@ -220,12 +150,11 @@
                                             <div class="col-lg-5 fs-3">
                                                 <div class="candidate-list-content mt-3 mt-lg-0">
                                                 <p class="text-warning">Mã đơn hàng: @order.OrderId</p>
-                                                <p class="text-muted mb-2" style="font-size:18px">@order?.Cus?.CusName</p>
+                                                <p class="text-muted mb-2" style="font-size:18px">@order?.Ship.CusName</p>
                                                     <ul class="list-inline mb-0 text-muted fs-3">
                                                         <li class="list-inline-item">
-                                                            <i class="mdi mdi-map-marker"></i>Order date: @order.OrderDate
+                                                            <i class="mdi mdi-map-marker"></i>Order date: @order.OrderAdd
                                                         </li>
-                                                        
                                                     </ul>
                                                 </div>
                                             </div>
@@ -234,15 +163,15 @@
                                                 <span class="badge bg-soft-secondary  mt-1">@order?.Payment.PaymentMethod</span><span class="badge bg-soft-secondary  mt-1">@order?.Ship.ShipAddress</span>
                                             </div
                                              <div class="mt-2 mt-lg-0 d-flex flex-wrap align-items-start gap-1">
-                                                <span class="badge bg-soft-secondary  mt-1">Estimated delivery date</span><span class="badge bg-soft-secondary  mt-1">@order.OrderAdd</span>
+                                                <span class="badge bg-soft-secondary  mt-1">Delivery date</span><span class="badge bg-soft-secondary  mt-1">@order?.Payment.PaymentDate</span>
                                             </div>
                                             <div class="col-lg-2 fs-2 fw-bolder">
-                                                <p>Total Price: @order.OrderTotalprice$</p>
+                                                <p>Total Price: @order.OrderTotalprice VND</p>
                                             </div>
                                         </div>
                                         
                                         <div class="favorite-icon position-absolute" style="right: 22px; top: 22px;">
-                                                @if(@order?.Ship.ShipState == "Delevering")
+                                                @if(@order?.Ship.ShipState == "Delivering")
                                                 {     
                                                     <p class="text-success" style="display: inline-block; font-size: 18px;line-height: 30px;text-align: center">@order?.Ship.ShipState</p>
                                                 }

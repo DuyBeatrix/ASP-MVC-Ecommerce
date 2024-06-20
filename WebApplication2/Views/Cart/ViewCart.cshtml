@@ -95,6 +95,7 @@
 
                                                     <div class="row">
                                                         <div class="col-lg-5">
+                                                        <input type="hidden" name="productId" value="@item.Product.ProductId" />
                                                             <input type="hidden" name="cartId" value="@item.CartId" />
                                                             <input type="number" name="quantity" value="@item.CartQuantity" min="1" class="form-control" />
                                                         </div>
@@ -151,6 +152,16 @@
     <script src="../LayoutOgani/js/mixitup.min.js"></script>
     <script src="../LayoutOgani/js/owl.carousel.min.js"></script>
     <script src="../LayoutOgani/js/main.js"></script>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <script>
+            $(document).ready(function () {
+                alert('@TempData["ErrorMessage"]');
+            });
+        </script>
+    }
+
 </body>
 </html>
     
